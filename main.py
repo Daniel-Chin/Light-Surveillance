@@ -1,4 +1,3 @@
-
 from contextlib import contextmanager
 import numpy as np
 import cv2
