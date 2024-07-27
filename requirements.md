@@ -1,0 +1,2 @@
+- Add the following repo to $PYTHONPATH.  
+  - https://github.com/daniel-Chin/python_lib
